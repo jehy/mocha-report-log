@@ -42,4 +42,3 @@ describe('Array', function () {
  * @param {string} type log type - fail, pass or pending
  */
 ```
-```
