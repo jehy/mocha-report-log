@@ -1,0 +1,25 @@
+{
+  "name": "mocha-report-log",
+  "version": "0.0.1",
+  "description": "Simplifies colored logging in mocha report",
+  "keywords": [
+    "log",
+    "mocha",
+    "test"
+  ],
+  "main": "script.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jehy/mocha-report-log"
+  },
+  "author": "Jehy",
+  "license": "MIT",
+  "dependencies": {
+    "mocha": "^3.2.0"
+  },
+  "devDependencies": {
+  }
+}
