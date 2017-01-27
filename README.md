@@ -38,7 +38,7 @@ describe('Array', function () {
 /**
  *
  * @param {string} data what you want to log
- * @param {int} level tabulation level
- * @param {string} type log type - fail, pass or pending
+ * @param {int} [level] tabulation level
+ * @param {string} [type] log type - fail, pass or pending
  */
 ```
