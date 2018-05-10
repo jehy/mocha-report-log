@@ -1,6 +1,6 @@
 {
   "name": "mocha-report-log",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Simplifies colored logging in mocha report",
   "keywords": [
     "log",
@@ -17,9 +17,10 @@
   },
   "author": "Jehy",
   "license": "MIT",
-  "dependencies": {
-    "mocha": "^3.2.0"
+  "peerDependencies": {
+    "mocha": "*"
   },
   "devDependencies": {
+    "mocha": "*"
   }
 }
